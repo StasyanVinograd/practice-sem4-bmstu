@@ -1,0 +1,73 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{safety}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{ГОСТ Р 12.3.050-2017 Система стандартов безопасности труда (ССБТ). Строительство. Работы на высоте. Правила безопасности}
+      \verb{urlraw}
+      \verb https://docs.cntd.ru/document/1200146290
+      \endverb
+      \verb{url}
+      \verb https://docs.cntd.ru/document/1200146290
+      \endverb
+    \endentry
+    \entry{pycharm}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{PyCharm: IDE для профессиональной разработки на Python}
+      \verb{urlraw}
+      \verb https://www.jetbrains.com/ru-ru/pycharm/
+      \endverb
+      \verb{url}
+      \verb https://www.jetbrains.com/ru-ru/pycharm/
+      \endverb
+    \endentry
+    \entry{aiogram}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{Aiogram}
+      \verb{urlraw}
+      \verb https://aiogram.dev
+      \endverb
+      \verb{url}
+      \verb https://aiogram.dev
+      \endverb
+    \endentry
+    \entry{sqllite}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{title}{About SQLite}
+      \verb{urlraw}
+      \verb https://www.sqlite.org/about.html
+      \endverb
+      \verb{url}
+      \verb https://www.sqlite.org/about.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

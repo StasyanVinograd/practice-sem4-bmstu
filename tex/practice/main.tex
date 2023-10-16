@@ -1,0 +1,22 @@
+\documentclass[diploma]{BMSTU-IU8}
+
+\usepackage{todonotes}
+\usepackage{lipsum}
+
+\addbibresource{main.bib}
+    
+\begin{document}
+    \setcounter{page}{3} % Устанавливает счётчик страниц
+
+    \tableofcontents % Содержание 
+ 
+    \include{contents/1-intro} % Введение
+    \include{contents/2-main}
+    \include{contents/3-conclusion}
+    
+   \printbibliography
+
+    \appendix
+    \include{contents/4-appendix}
+
+\end{document}
